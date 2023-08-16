@@ -22,4 +22,4 @@ def eql(n1, n2):
             if x==y:
                 cf.append(x)
     return cf
-print(eql(72, 120))
+
